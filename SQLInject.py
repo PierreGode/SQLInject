@@ -1,5 +1,5 @@
 #SQLInject
-# Written by Pierre GOude
+# Written by Pierre Goude
 import md5, sys, urllib2, sys
 import pdb
 def lettertable(letter):
